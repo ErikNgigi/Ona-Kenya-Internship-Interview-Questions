@@ -1,7 +1,7 @@
 # Define a function to find the sorted non-repeating intersection of two arrays
 def find_intersection(arr1, arr2):
     intersection = []  # Initialize a list to store the intersection elements
-    i, j = 0, 0  # Initialize pointers for the two arrays
+    i, j = 0, 0  # Initialize pointers for the two arrays point to the first element
 
     # Iterate through the arrays while both pointers are within bounds
     while i < len(arr1) and j < len(arr2):
