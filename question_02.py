@@ -11,7 +11,7 @@ def reverse_words(line):
 
 
 # Read the number of lines
-n = int(input(""))
+n = int(input())
 
 # Read all lines of input and store them in a list
 lines = []
