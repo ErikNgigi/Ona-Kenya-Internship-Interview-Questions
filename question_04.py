@@ -11,11 +11,16 @@ def int_is_smooth(arr):
 # Read the length of the array
 n = int(input())
 
-# Read the array elements and store them in a list
-arr = list(map(int, input().split()))
+# Read a single line of input containing 'n' array elements and split them by whitespaces
+input_line = input()
+arr = list(map(int, input_line.split()))
 
-# Check if the array is smooth using the defined function
-if int_is_smooth(arr):
-    print("YES")  # If the array is smooth, print "YES"
+# Check if the number of entered elements matches 'n'
+if len(arr) != n:
+    print("Number of elements entered does not match the specified length.")
 else:
-    print("NO")  # If the array is not smooth, print "NO"
+    # Check if the array is smooth using the defined function
+    if int_is_smooth(arr):
+        print("YES")  # If the array is smooth, print "YES"
+    else:
+        print("NO")  # If the array is not smooth, print "NO"
