@@ -58,16 +58,16 @@ An array of integers a is called smooth if the absolute value of the difference 
 The first line of the input contains an integer N - the number of elements in the array. 1 <= N <= 10.
 The second line of the input contains N integers - the elements of the array, separated with single spaces. 1 <= ai <= 10.
 
-## Videos
+<!-- ## Videos -->
 
-### Question 1
-![Question 01](https://github.com/ErikNgigi/Ona-Kenya-Interview-Questions/assets/50109792/8a40c845-03b6-45b9-a7ea-00b187e73f34)
-
-### Question 2
-![Question 02](https://github.com/ErikNgigi/Ona-Kenya-Interview-Questions/assets/50109792/604b2aee-3954-48f4-a50e-d5da66f194af)
-
-### Question 3
-![Question 03](https://github.com/ErikNgigi/Ona-Kenya-Interview-Questions/assets/50109792/45aa296c-e61e-48ad-aa4e-9457c95e57cb)
-
-### Question 4
-![Question 04](https://github.com/ErikNgigi/Ona-Kenya-Interview-Questions/assets/50109792/96b6683b-8d9b-4c6d-b4a6-16ee8eab38d3)
+<!-- ### Question 1 -->
+<!-- ![Question 01](https://github.com/ErikNgigi/Ona-Kenya-Interview-Questions/assets/50109792/8a40c845-03b6-45b9-a7ea-00b187e73f34) -->
+<!---->
+<!-- ### Question 2 -->
+<!-- ![Question 02](https://github.com/ErikNgigi/Ona-Kenya-Interview-Questions/assets/50109792/604b2aee-3954-48f4-a50e-d5da66f194af) -->
+<!---->
+<!-- ### Question 3 -->
+<!-- ![Question 03](https://github.com/ErikNgigi/Ona-Kenya-Interview-Questions/assets/50109792/45aa296c-e61e-48ad-aa4e-9457c95e57cb) -->
+<!---->
+<!-- ### Question 4 -->
+<!-- ![Question 04](https://github.com/ErikNgigi/Ona-Kenya-Interview-Questions/assets/50109792/96b6683b-8d9b-4c6d-b4a6-16ee8eab38d3) -->
