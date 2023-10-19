@@ -27,3 +27,18 @@ for line in lines:
 
     # Print the reversed line
     print(reversed_line)
+
+additional_lines = []
+while True:
+    try:
+        line = input()
+        additional_lines.append(line)
+    except EOFError:
+        break
+
+if additional_lines:
+    print("Additional lines entered by the user:")
+    for line in additional_lines:
+        print(line)
+else:
+    print("No additional lines entered.")
